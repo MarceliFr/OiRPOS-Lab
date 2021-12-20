@@ -4,3 +4,5 @@ feature1commit
 =======
 feature2commit
 >>>>>>> feature_2
+
+feature3commit
